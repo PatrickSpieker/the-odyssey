@@ -19,8 +19,8 @@
 - Clojure
 
 ### Swift
-- OSS Lib: 
-- My project repo:
+- OSS Lib
+- My project repo
 
 - [ ] LeetCode problems all solved
 
